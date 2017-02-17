@@ -1,0 +1,29 @@
+#container{
+    margin: 2em auto;
+    padding: 1em;
+    background-color: aliceblue;
+    max-width: 1200px;
+    overflow: hidden;
+}
+
+body{
+    background-color: mintcream;
+}
+
+h1{
+    text-align: center;
+}
+
+#img{
+    text-align: center;
+}
+
+section{
+    display: inline-block;
+    padding: 1em;
+    margin: 1em;
+}
+
+footer{
+    text-align: center;
+}
